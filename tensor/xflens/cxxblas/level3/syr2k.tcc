@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL3_SYR2K_TCC
 #define CXXBLAS_LEVEL3_SYR2K_TCC 1
 
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

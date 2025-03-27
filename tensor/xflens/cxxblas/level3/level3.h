@@ -33,14 +33,14 @@
 #ifndef CXXBLAS_LEVEL3_LEVEL3_H
 #define CXXBLAS_LEVEL3_LEVEL3_H 1
 
-#include "xflens/cxxblas/level3/gemm.h"
-#include "xflens/cxxblas/level3/hemm.h"
-#include "xflens/cxxblas/level3/herk.h"
-#include "xflens/cxxblas/level3/her2k.h"
-#include "xflens/cxxblas/level3/symm.h"
-#include "xflens/cxxblas/level3/syrk.h"
-#include "xflens/cxxblas/level3/syr2k.h"
-#include "xflens/cxxblas/level3/trmm.h"
-#include "xflens/cxxblas/level3/trsm.h"
+#include "../level3/gemm.h"
+#include "../level3/hemm.h"
+#include "../level3/herk.h"
+#include "../level3/her2k.h"
+#include "../level3/symm.h"
+#include "../level3/syrk.h"
+#include "../level3/syr2k.h"
+#include "../level3/trmm.h"
+#include "../level3/trsm.h"
 
 #endif // CXXBLAS_LEVEL3_LEVEL3_H

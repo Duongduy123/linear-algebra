@@ -33,8 +33,8 @@
 #ifndef CXXBLAS_AUXILIARY_COMPLEX_H
 #define CXXBLAS_AUXILIARY_COMPLEX_H 1
 
-#include "xflens/cxxblas/typedefs.h"
-#include "xflens/cxxblas/auxiliary/restrictto.h"
+#include "../typedefs.h"
+#include "../auxiliary/restrictto.h"
 
 namespace cxxblas {
 

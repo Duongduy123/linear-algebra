@@ -33,6 +33,6 @@
 #ifndef CXXLAPACK_CXXLAPACK_TCC
 #define CXXLAPACK_CXXLAPACK_TCC 1
 
-#include "xflens/cxxlapack/interface/interface.tcc"
+#include "interface/interface.tcc"
 
 #endif // CXXLAPACK_CXXLAPACK_TCC 1

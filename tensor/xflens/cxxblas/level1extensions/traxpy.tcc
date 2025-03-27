@@ -35,7 +35,7 @@
 
 #include <algorithm>
 #include <cassert>
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

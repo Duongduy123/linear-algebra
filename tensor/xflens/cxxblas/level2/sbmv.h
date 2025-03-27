@@ -33,8 +33,8 @@
 #ifndef CXXBLAS_LEVEL2_SBMV_H
 #define CXXBLAS_LEVEL2_SBMV_H 1
 
-#include "xflens/cxxblas/drivers/drivers.h"
-#include "xflens/cxxblas/typedefs.h"
+#include "../drivers/drivers.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_SBMV 1
 

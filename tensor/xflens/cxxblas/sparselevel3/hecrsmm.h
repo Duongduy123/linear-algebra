@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_SPARSELEVEL3_HECRSMM_H
 #define CXXBLAS_SPARSELEVEL3_HECRSMM_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_HECRSMM 1
 

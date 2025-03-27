@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_AUXILIARY_AUXILIARY_TCC
 #define CXXBLAS_AUXILIARY_AUXILIARY_TCC 1
 
-#include "xflens/cxxblas/auxiliary/complex.tcc"
-#include "xflens/cxxblas/auxiliary/pow.tcc"
+#include "complex.tcc"
+#include "pow.tcc"
 
 #endif // CXXBLAS_AUXILIARY_AUXILIARY_TCC

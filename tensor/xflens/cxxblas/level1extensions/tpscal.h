@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL1EXTENSIONS_TPSCAL_H
 #define CXXBLAS_LEVEL1EXTENSIONS_TPSCAL_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_TPSCAL 1
 

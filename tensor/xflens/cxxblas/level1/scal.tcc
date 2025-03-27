@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL1_SCAL_TCC
 #define CXXBLAS_LEVEL1_SCAL_TCC 1
 
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_SPARSELEVEL3_SYCCSMM_H
 #define CXXBLAS_SPARSELEVEL3_SYCCSMM_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_SYCCSMM 1
 

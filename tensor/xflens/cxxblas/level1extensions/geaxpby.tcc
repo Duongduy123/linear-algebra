@@ -34,7 +34,7 @@
 #define CXXBLAS_LEVEL1EXTENSIONS_GEAXPBY_TCC 1
 
 #include <cassert>
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

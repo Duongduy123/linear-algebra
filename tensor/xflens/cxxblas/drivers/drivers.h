@@ -33,8 +33,8 @@
 #ifndef CXXBLAS_DRIVERS_DRIVERS_H
 #define CXXBLAS_DRIVERS_DRIVERS_H 1
 
-#include "xflens/cxxblas/auxiliary/issame.h"
-#include "xflens/cxxblas/auxiliary/restrictto.h"
+#include "../auxiliary/issame.h"
+#include "../auxiliary/restrictto.h"
 
 // define implementation specific constants, macros, etc.
 #if defined (WITH_ATLAS)
@@ -53,14 +53,14 @@
 
 
 #ifdef HAVE_CBLAS
-#include "xflens/cxxblas/drivers/cblas.h"
+#include "../drivers/cblas.h"
 #endif
 
 #ifdef HAVE_SPARSEBLAS
-#include "xflens/cxxblas/drivers/sparseblas.h"
+#include "../drivers/sparseblas.h"
 #endif
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 namespace cxxblas {
 

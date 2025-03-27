@@ -33,14 +33,14 @@
 #ifndef CXXBLAS_LEVEL3_LEVEL3_TCC
 #define CXXBLAS_LEVEL3_LEVEL3_TCC 1
 
-#include "xflens/cxxblas/level3/gemm.tcc"
-#include "xflens/cxxblas/level3/hemm.tcc"
-#include "xflens/cxxblas/level3/herk.tcc"
-#include "xflens/cxxblas/level3/her2k.tcc"
-#include "xflens/cxxblas/level3/symm.tcc"
-#include "xflens/cxxblas/level3/syrk.tcc"
-#include "xflens/cxxblas/level3/syr2k.tcc"
-#include "xflens/cxxblas/level3/trmm.tcc"
-#include "xflens/cxxblas/level3/trsm.tcc"
+#include "../level3/gemm.tcc"
+#include "../level3/hemm.tcc"
+#include "../level3/herk.tcc"
+#include "../level3/her2k.tcc"
+#include "../level3/symm.tcc"
+#include "../level3/syrk.tcc"
+#include "../level3/syr2k.tcc"
+#include "../level3/trmm.tcc"
+#include "../level3/trsm.tcc"
 
 #endif // CXXBLAS_LEVEL3_LEVEL3_TCC

@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_TINYLEVEL1_GESCAL_H
 #define CXXBLAS_TINYLEVEL1_GESCAL_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 namespace cxxblas {
 

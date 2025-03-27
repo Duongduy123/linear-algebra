@@ -33,8 +33,8 @@
 #ifndef CXXBLAS_SPARSELEVEL3_GECRSMM_TCC
 #define CXXBLAS_SPARSELEVEL3_GECRSMM_TCC 1
 
-#include "xflens/cxxblas/auxiliary/auxiliary.h"
-#include "xflens/cxxblas/typedefs.h"
+#include "../auxiliary/auxiliary.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_GECRSMM 1
 

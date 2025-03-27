@@ -33,7 +33,7 @@
 #ifndef CXXLAPACK_CXXLAPACK_CXX
 #define CXXLAPACK_CXXLAPACK_CXX 1
 
-#include "xflens/cxxlapack/cxxlapack.h"
-#include "xflens/cxxlapack/cxxlapack.tcc"
+#include "cxxlapack.h"
+#include "cxxlapack.tcc"
 
 #endif // CXXLAPACK_CXXLAPACK_CXX 1

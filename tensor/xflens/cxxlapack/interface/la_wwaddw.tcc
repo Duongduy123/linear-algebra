@@ -34,8 +34,8 @@
 #define CXXLAPACK_INTERFACE_LA_WWADDW_TCC
 
 #include <iostream>
-#include "xflens/cxxlapack/interface/interface.h"
-#include "xflens/cxxlapack/netlib/netlib.h"
+#include "interface.h"
+#include "../netlib/netlib.h"
 
 namespace cxxlapack {
 

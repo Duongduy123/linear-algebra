@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_SPARSELEVEL2_TRCRSSV_TCC
 #define CXXBLAS_SPARSELEVEL2_TRCRSSV_TCC 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 namespace cxxblas {
 

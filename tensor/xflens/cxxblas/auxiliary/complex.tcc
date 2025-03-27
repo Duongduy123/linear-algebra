@@ -34,7 +34,7 @@
 #define CXXBLAS_AUXILIARY_COMPLEX_TCC 1
 
 #include <complex>
-#include "xflens/cxxblas/auxiliary/complex.h"
+#include "../auxiliary/complex.h"
 
 namespace cxxblas {
 

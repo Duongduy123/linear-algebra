@@ -33,13 +33,13 @@
 #ifndef CXXBLAS_LEVEL2EXTENSIONS_LEVEL2EXTENSIONS_H
 #define CXXBLAS_LEVEL2EXTENSIONS_LEVEL2EXTENSIONS_H 1
 
-#include "xflens/cxxblas/level2extensions/gbmv.h"
-#include "xflens/cxxblas/level2extensions/gemv.h"
-#include "xflens/cxxblas/level2extensions/hemv.h"
-#include "xflens/cxxblas/level2extensions/her.h"
-#include "xflens/cxxblas/level2extensions/her2.h"
-#include "xflens/cxxblas/level2extensions/symv.h"
-#include "xflens/cxxblas/level2extensions/trmv.h"
-#include "xflens/cxxblas/level2extensions/trsv.h"
+#include "../level2extensions/gbmv.h"
+#include "../level2extensions/gemv.h"
+#include "../level2extensions/hemv.h"
+#include "../level2extensions/her.h"
+#include "../level2extensions/her2.h"
+#include "../level2extensions/symv.h"
+#include "../level2extensions/trmv.h"
+#include "../level2extensions/trsv.h"
 
 #endif // CXXBLAS_LEVEL2EXTENSIONS_LEVEL2EXTENSIONS_H

@@ -33,8 +33,8 @@
 #ifndef CXXBLAS_LEVEL2_HPR_H
 #define CXXBLAS_LEVEL2_HPR_H 1
 
-#include "xflens/cxxblas/drivers/drivers.h"
-#include "xflens/cxxblas/typedefs.h"
+#include "../drivers/drivers.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_SPR 1
 

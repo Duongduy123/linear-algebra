@@ -33,15 +33,15 @@
 #ifndef CXXBLAS_LEVEL1_LEVEL1_TCC
 #define CXXBLAS_LEVEL1_LEVEL1_TCC 1
 
-#include "xflens/cxxblas/level1/asum.tcc"
-#include "xflens/cxxblas/level1/axpy.tcc"
-#include "xflens/cxxblas/level1/copy.tcc"
-#include "xflens/cxxblas/level1/dot.tcc"
-#include "xflens/cxxblas/level1/iamax.tcc"
-#include "xflens/cxxblas/level1/nrm2.tcc"
-#include "xflens/cxxblas/level1/rot.tcc"
-#include "xflens/cxxblas/level1/rotm.tcc"
-#include "xflens/cxxblas/level1/scal.tcc"
-#include "xflens/cxxblas/level1/swap.tcc"
+#include "../level1/asum.tcc"
+#include "../level1/axpy.tcc"
+#include "../level1/copy.tcc"
+#include "../level1/dot.tcc"
+#include "../level1/iamax.tcc"
+#include "../level1/nrm2.tcc"
+#include "../level1/rot.tcc"
+#include "../level1/rotm.tcc"
+#include "../level1/scal.tcc"
+#include "../level1/swap.tcc"
 
 #endif // CXXBLAS_LEVEL1_LEVEL1_TCC

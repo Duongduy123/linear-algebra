@@ -34,13 +34,13 @@
 #define CXXBLAS_AUXILIARY_AUXILIARY_H 1
 
 #include "complex.h"
-#include "xflens/cxxblas/auxiliary/complextrait.h"
-#include "xflens/cxxblas/auxiliary/debugmacro.h"
-#include "xflens/cxxblas/auxiliary/fakeuse.h"
-#include "xflens/cxxblas/auxiliary/iscomplex.h"
-#include "xflens/cxxblas/auxiliary/ismpfrreal.h"
-#include "xflens/cxxblas/auxiliary/issame.h"
-#include "xflens/cxxblas/auxiliary/pow.h"
-#include "xflens/cxxblas/auxiliary/restrictto.h"
+#include "complextrait.h"
+#include "debugmacro.h"
+#include "fakeuse.h"
+#include "iscomplex.h"
+#include "ismpfrreal.h"
+#include "issame.h"
+#include "pow.h"
+#include "restrictto.h"
 
 #endif // CXXBLAS_AUXILIARY_AUXILIARY_H

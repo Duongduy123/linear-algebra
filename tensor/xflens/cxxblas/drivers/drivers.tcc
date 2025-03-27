@@ -33,8 +33,8 @@
 #ifndef CXXBLAS_DRIVERS_DRIVERS_TCC
 #define CXXBLAS_DRIVERS_DRIVERS_TCC 1
 
-#include "xflens/cxxblas/auxiliary/auxiliary.h"
-#include "xflens/cxxblas/drivers/drivers.h"
+#include "../auxiliary/auxiliary.h"
+#include "../drivers/drivers.h"
 
 #ifndef BLAS_IMPL
 #   define BLAS_IMPL    "CXXBLAS (generic)"

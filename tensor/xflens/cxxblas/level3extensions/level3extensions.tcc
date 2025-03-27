@@ -33,9 +33,9 @@
 #ifndef CXXBLAS_LEVEL3EXTENSIONS_LEVEL3EXTENSIONS_TCC
 #define CXXBLAS_LEVEL3EXTENSIONS_LEVEL3EXTENSIONS_TCC 1
 
-#include "xflens/cxxblas/level3extensions/hbmm.tcc"
-#include "xflens/cxxblas/level3extensions/gbmm.tcc"
-#include "xflens/cxxblas/level3extensions/sbmm.tcc"
-#include "xflens/cxxblas/level3extensions/tbmm.tcc"
+#include "../level3extensions/hbmm.tcc"
+#include "../level3extensions/gbmm.tcc"
+#include "../level3extensions/sbmm.tcc"
+#include "../level3extensions/tbmm.tcc"
 
 #endif // CXXBLAS_LEVEL3EXTENSIONS_LEVEL3EXTENSIONS_TCC

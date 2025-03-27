@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL1EXTENSIONS_TPCOPY_H
 #define CXXBLAS_LEVEL1EXTENSIONS_TPCOPY_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_TPCOPY 1
 

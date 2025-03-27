@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_TINYLEVEL1_GERSCAL_TCC
 #define CXXBLAS_TINYLEVEL1_GERSCAL_TCC 1
 
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

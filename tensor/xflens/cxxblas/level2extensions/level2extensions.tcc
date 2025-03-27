@@ -33,13 +33,13 @@
 #ifndef CXXBLAS_LEVEL2EXTENSIONS_LEVEL2EXTENSIONS_TCC
 #define CXXBLAS_LEVEL2EXTENSIONS_LEVEL2EXTENSIONS_TCC 1
 
-#include "xflens/cxxblas/level2extensions/gbmv.tcc"
-#include "xflens/cxxblas/level2extensions/gemv.tcc"
-#include "xflens/cxxblas/level2extensions/hemv.tcc"
-#include "xflens/cxxblas/level2extensions/her.tcc"
-#include "xflens/cxxblas/level2extensions/her2.tcc"
-#include "xflens/cxxblas/level2extensions/symv.tcc"
-#include "xflens/cxxblas/level2extensions/trmv.tcc"
-#include "xflens/cxxblas/level2extensions/trsv.tcc"
+#include "../level2extensions/gbmv.tcc"
+#include "../level2extensions/gemv.tcc"
+#include "../level2extensions/hemv.tcc"
+#include "../level2extensions/her.tcc"
+#include "../level2extensions/her2.tcc"
+#include "../level2extensions/symv.tcc"
+#include "../level2extensions/trmv.tcc"
+#include "../level2extensions/trsv.tcc"
 
 #endif // CXXBLAS_LEVEL2EXTENSIONS_LEVEL2EXTENSIONS_TCC

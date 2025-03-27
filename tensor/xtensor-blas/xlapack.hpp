@@ -12,17 +12,17 @@
 
 #include <algorithm>
 
-#include "xtensor/xarray.hpp"
-#include "xtensor/xcomplex.hpp"
-#include "xtensor/xio.hpp"
-#include "xtensor/xstorage.hpp"
-#include "xtensor/xtensor.hpp"
-#include "xtensor/xutils.hpp"
+#include "../xtensor/xarray.hpp"
+#include "../xtensor/xcomplex.hpp"
+#include "../xtensor/xio.hpp"
+#include "../xtensor/xstorage.hpp"
+#include "../xtensor/xtensor.hpp"
+#include "../xtensor/xutils.hpp"
 
-#include "xflens/cxxlapack/cxxlapack.cxx"
-#include "xtensor-blas/xblas_config.hpp"
-#include "xtensor-blas/xblas_utils.hpp"
-#include "xtl/xcomplex.hpp"
+#include "../xflens/cxxlapack/cxxlapack.cxx"
+#include "xblas_config.hpp"
+#include "xblas_utils.hpp"
+#include "../xtl/xcomplex.hpp"
 
 namespace xt
 {

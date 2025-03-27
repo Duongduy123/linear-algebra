@@ -33,21 +33,21 @@
 #ifndef CXXBLAS_CXXBLAS_H
 #define CXXBLAS_CXXBLAS_H 1
 
-#include "C:\Users\DELL\Documents\myCode\Linear_Algebra\tensor\xflens\cxxblas\auxiliary\auxiliary.h"
-#include "../xflens/cxxblas/drivers/drivers.h"
-#include "../xflens/cxxblas/typedefs.h"
+#include "auxiliary/auxiliary.h"
+#include "drivers/drivers.h"
+#include "typedefs.h"
 
-#include "tensor/xflens/cxxblas/level1/level1.h"
-#include "../xflens/cxxblas/level1extensions/level1extensions.h"
-#include "../xflens/cxxblas/level2/level2.h"
-#include "../xflens/cxxblas/level2extensions/level2extensions.h"
-#include "../xflens/cxxblas/level3/level3.h"
-#include "../xflens/cxxblas/level3extensions/level3extensions.h"
+#include "level1/level1.h"
+#include "level1extensions/level1extensions.h"
+#include "level2/level2.h"
+#include "level2extensions/level2extensions.h"
+#include "level3/level3.h"
+#include "level3extensions/level3extensions.h"
 
-#include "../xflens/cxxblas/sparselevel2/sparselevel2.h"
-#include "../xflens/cxxblas/sparselevel3/sparselevel3.h"
+#include "sparselevel2/sparselevel2.h"
+#include "sparselevel3/sparselevel3.h"
 
-#include "../xflens/cxxblas/tinylevel1/tinylevel1.h"
-#include "../xflens/cxxblas/tinylevel2/tinylevel2.h"
+#include "tinylevel1/tinylevel1.h"
+#include "tinylevel2/tinylevel2.h"
 
 #endif // CXXBLAS_CXXBLAS_H

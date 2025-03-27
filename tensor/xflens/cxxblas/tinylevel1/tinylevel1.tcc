@@ -33,17 +33,17 @@
 #ifndef CXXBLAS_TINYLEVEL1_TINYLEVEL1_TCC
 #define CXXBLAS_TINYLEVEL1_TINYLEVEL1_TCC 1
 
-#include "xflens/cxxblas/tinylevel1/acxpby.tcc"
-#include "xflens/cxxblas/tinylevel1/acxpy.tcc"
-#include "xflens/cxxblas/tinylevel1/axpby.tcc"
-#include "xflens/cxxblas/tinylevel1/axpy.tcc"
-#include "xflens/cxxblas/tinylevel1/copy.tcc"
-#include "xflens/cxxblas/tinylevel1/ccopy.tcc"
-#include "xflens/cxxblas/tinylevel1/geaxpy.tcc"
-#include "xflens/cxxblas/tinylevel1/gecopy.tcc"
-#include "xflens/cxxblas/tinylevel1/gerscal.tcc"
-#include "xflens/cxxblas/tinylevel1/gescal.tcc"
-#include "xflens/cxxblas/tinylevel1/rscal.tcc"
-#include "xflens/cxxblas/tinylevel1/scal.tcc"
+#include "../tinylevel1/acxpby.tcc"
+#include "../tinylevel1/acxpy.tcc"
+#include "../tinylevel1/axpby.tcc"
+#include "../tinylevel1/axpy.tcc"
+#include "../tinylevel1/copy.tcc"
+#include "../tinylevel1/ccopy.tcc"
+#include "../tinylevel1/geaxpy.tcc"
+#include "../tinylevel1/gecopy.tcc"
+#include "../tinylevel1/gerscal.tcc"
+#include "../tinylevel1/gescal.tcc"
+#include "../tinylevel1/rscal.tcc"
+#include "../tinylevel1/scal.tcc"
 
 #endif // CXXBLAS_TINYLEVEL1_TINYLEVEL1_TCC

@@ -33,17 +33,17 @@
 #ifndef CXXBLAS_TINYLEVEL1_TINYLEVEL1_H
 #define CXXBLAS_TINYLEVEL1_TINYLEVEL1_H 1
 
-#include "xflens/cxxblas/tinylevel1/acxpby.h"
-#include "xflens/cxxblas/tinylevel1/acxpy.h"
-#include "xflens/cxxblas/tinylevel1/axpby.h"
-#include "xflens/cxxblas/tinylevel1/axpy.h"
-#include "xflens/cxxblas/tinylevel1/copy.h"
-#include "xflens/cxxblas/tinylevel1/ccopy.h"
-#include "xflens/cxxblas/tinylevel1/geaxpy.h"
-#include "xflens/cxxblas/tinylevel1/gecopy.h"
-#include "xflens/cxxblas/tinylevel1/gerscal.h"
-#include "xflens/cxxblas/tinylevel1/gescal.h"
-#include "xflens/cxxblas/tinylevel1/rscal.h"
-#include "xflens/cxxblas/tinylevel1/scal.h"
+#include "acxpby.h"
+#include "acxpy.h"
+#include "axpby.h"
+#include "axpy.h"
+#include "copy.h"
+#include "ccopy.h"
+#include "geaxpy.h"
+#include "gecopy.h"
+#include "gerscal.h"
+#include "gescal.h"
+#include "rscal.h"
+#include "scal.h"
 
 #endif // CXXBLAS_TINYLEVEL1_TINYLEVEL1_H

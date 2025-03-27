@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_SPARSELEVEL2_HECRSMV_H
 #define CXXBLAS_SPARSELEVEL2_HECRSMV_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_HECRSMV 1
 

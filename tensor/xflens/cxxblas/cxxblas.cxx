@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_CXXBLAS_CXX
 #define CXXBLAS_CXXBLAS_CXX 1
 
-#include "C:\Users\DELL\Documents\myCode\Linear_Algebra\tensor\xflens\cxxblas\cxxblas.h"
-#include "xflens/cxxblas/cxxblas.tcc"
+#include "cxxblas.h"
+#include "cxxblas.tcc"
 
 #endif // CXXBLAS_CXXBLAS_CXX
