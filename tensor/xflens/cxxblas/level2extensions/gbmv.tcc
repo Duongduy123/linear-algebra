@@ -34,7 +34,7 @@
 #define CXXBLAS_LEVEL2EXTENSIONS_GBMV_TCC 1
 
 #include <complex>
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

@@ -33,8 +33,8 @@
 #ifndef CXXBLAS_LEVEL1_ASUM_H
 #define CXXBLAS_LEVEL1_ASUM_H 1
 
-#include "xflens/cxxblas/typedefs.h"
-#include "xflens/cxxblas/drivers/drivers.h"
+#include "../typedefs.h"
+#include "../drivers/drivers.h"
 
 #define HAVE_CXXBLAS_ASUM 1
 

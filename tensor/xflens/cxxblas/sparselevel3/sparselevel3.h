@@ -33,12 +33,12 @@
 #ifndef CXXBLAS_SPARSELEVEL3_SPARSELEVEL3_H
 #define CXXBLAS_SPARSELEVEL3_SPARSELEVEL3_H 1
 
-#include "xflens/cxxblas/sparselevel3/gecrsmm.h"
-#include "xflens/cxxblas/sparselevel3/heccsmm.h"
-#include "xflens/cxxblas/sparselevel3/hecrsmm.h"
-#include "xflens/cxxblas/sparselevel3/syccsmm.h"
-#include "xflens/cxxblas/sparselevel3/sycrsmm.h"
-#include "xflens/cxxblas/sparselevel3/trccssm.h"
-#include "xflens/cxxblas/sparselevel3/trcrssm.h"
+#include "gecrsmm.h"
+#include "heccsmm.h"
+#include "hecrsmm.h"
+#include "syccsmm.h"
+#include "sycrsmm.h"
+#include "trccssm.h"
+#include "trcrssm.h"
 
 #endif // CXXBLAS_SPARSELEVEL2_SPARSELEVEL2_H

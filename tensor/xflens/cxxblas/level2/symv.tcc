@@ -34,7 +34,7 @@
 #define CXXBLAS_LEVEL2_SYMV_TCC 1
 
 #include <complex>
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 #ifdef USE_CXXLAPACK
 #include "xflens/cxxlapack/cxxlapack.h"

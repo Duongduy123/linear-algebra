@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_TINYLEVEL1_GEAXPY_TCC
 #define CXXBLAS_TINYLEVEL1_GEAXPY_TCC 1
 
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 #define HAVE_CXXBLAS_GEAXPY 1
 

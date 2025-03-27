@@ -33,9 +33,9 @@
 #ifndef CXXBLAS_LEVEL3EXTENSIONS_LEVEL3EXTENSIONS_H
 #define CXXBLAS_LEVEL3EXTENSIONS_LEVEL3EXTENSIONS_H 1
 
-#include "xflens/cxxblas/level3extensions/hbmm.h"
-#include "xflens/cxxblas/level3extensions/gbmm.h"
-#include "xflens/cxxblas/level3extensions/sbmm.h"
-#include "xflens/cxxblas/level3extensions/tbmm.h"
+#include "hbmm.h"
+#include "gbmm.h"
+#include "sbmm.h"
+#include "tbmm.h"
 
 #endif // CXXBLAS_LEVEL3EXTENSIONS_LEVEL3EXTENSIONS_H

@@ -33,6 +33,6 @@
 #ifndef CXXBLAS_TINYLEVEL2_TINYLEVEL2_H
 #define CXXBLAS_TINYLEVEL2_TINYLEVEL2_H 1
 
-#include "xflens/cxxblas/tinylevel2/gemv.h"
+#include "gemv.h"
 
 #endif // CXXBLAS_TINYLEVEL2_TINYLEVEL2_H

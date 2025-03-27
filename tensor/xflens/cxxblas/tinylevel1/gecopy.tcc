@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_TINYLEVEL1_GECOPY_TCC
 #define CXXBLAS_TINYLEVEL1_GECOPY_TCC 1
 
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_SPARSELEVEL2_SYCCSMV_H
 #define CXXBLAS_SPARSELEVEL2_SYCCSMV_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_SYCCSMV 1
 

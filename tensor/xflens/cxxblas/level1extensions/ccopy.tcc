@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL1EXTENSIONS_CCOPY_TCC
 #define CXXBLAS_LEVEL1EXTENSIONS_CCOPY_TCC 1
 
-#include "xflens/cxxblas/auxiliary/auxiliary.h"
+#include "../auxiliary/auxiliary.h"
 
 namespace cxxblas {
 

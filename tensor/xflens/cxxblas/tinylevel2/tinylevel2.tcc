@@ -33,6 +33,6 @@
 #ifndef CXXBLAS_TINYLEVEL2_TINYLEVEL2_TCC
 #define CXXBLAS_TINYLEVEL2_TINYLEVEL2_TCC 1
 
-#include "xflens/cxxblas/tinylevel2/gemv.tcc"
+#include "../tinylevel2/gemv.tcc"
 
 #endif // CXXBLAS_TINYLEVEL2_TINYLEVEL2_TCC

@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL1EXTENSIONS_TPAXPBY_H
 #define CXXBLAS_LEVEL1EXTENSIONS_TPAXPBY_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_TPAXPBY 1
 

@@ -33,10 +33,10 @@
 #ifndef CXXBLAS_AUXILIARY_POW_H
 #define CXXBLAS_AUXILIARY_POW_H 1
 
-#include "xflens/cxxblas/auxiliary/iscomplex.h"
-#include "xflens/cxxblas/auxiliary/ismpfrreal.h"
-#include "xflens/cxxblas/auxiliary/issame.h"
-#include "xflens/cxxblas/auxiliary/restrictto.h"
+#include "../auxiliary/iscomplex.h"
+#include "../auxiliary/ismpfrreal.h"
+#include "../auxiliary/issame.h"
+#include "../auxiliary/restrictto.h"
 
 #ifdef WITH_MPFR
 #include <external/real.hpp>

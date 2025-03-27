@@ -34,7 +34,7 @@
 #define CXXBLAS_LEVEL1_AXPBY_TCC 1
 
 #include <cstdio>
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

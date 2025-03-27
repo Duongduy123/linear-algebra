@@ -1,4 +1,4 @@
-#include "xflens/cxxlapack/netlib/netlib.h"
+#include "../netlib.h"
 
 #ifndef INTEGER
 #    ifndef MKL_ILP64

@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL2EXTENSIONS_GBMV_H
 #define CXXBLAS_LEVEL2EXTENSIONS_GBMV_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 #define HAVE_CXXBLAS_GBMV 1
 

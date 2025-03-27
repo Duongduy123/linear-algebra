@@ -41,12 +41,12 @@ template <typename IndexType>
 
 } // namespace cxxblas
 
-#include "xflens/cxxblas/sparselevel2/gecrsmv.h"
-#include "xflens/cxxblas/sparselevel2/heccsmv.h"
-#include "xflens/cxxblas/sparselevel2/hecrsmv.h"
-#include "xflens/cxxblas/sparselevel2/syccsmv.h"
-#include "xflens/cxxblas/sparselevel2/sycrsmv.h"
-#include "xflens/cxxblas/sparselevel2/trccssv.h"
-#include "xflens/cxxblas/sparselevel2/trcrssv.h"
+#include "gecrsmv.h"
+#include "heccsmv.h"
+#include "hecrsmv.h"
+#include "syccsmv.h"
+#include "sycrsmv.h"
+#include "trccssv.h"
+#include "trcrssv.h"
 
 #endif // CXXBLAS_SPARSELEVEL2_SPARSELEVEL2_H

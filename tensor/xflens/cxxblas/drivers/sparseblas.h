@@ -5,7 +5,7 @@
 #ifndef CXXBLAS_DRIVERS_SPARSEBLAS_H
 #define CXXBLAS_DRIVERS_SPARSEBLAS_H 1
 
-#include "xflens/cxxblas/drivers/mklblas.h"
+#include "../drivers/mklblas.h"
 
 #ifndef SPARSEBLAS_INT
 #   define SPARSEBLAS_INT int

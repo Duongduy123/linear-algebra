@@ -53,12 +53,12 @@ getIndexBaseChar(IndexType x)
 
 } // namespace cxxblas
 
-#include "xflens/cxxblas/sparselevel2/gecrsmv.tcc"
-#include "xflens/cxxblas/sparselevel2/heccsmv.tcc"
-#include "xflens/cxxblas/sparselevel2/hecrsmv.tcc"
-#include "xflens/cxxblas/sparselevel2/syccsmv.tcc"
-#include "xflens/cxxblas/sparselevel2/sycrsmv.tcc"
-#include "xflens/cxxblas/sparselevel2/trccssv.tcc"
-#include "xflens/cxxblas/sparselevel2/trcrssv.tcc"
+#include "../sparselevel2/gecrsmv.tcc"
+#include "../sparselevel2/heccsmv.tcc"
+#include "../sparselevel2/hecrsmv.tcc"
+#include "../sparselevel2/syccsmv.tcc"
+#include "../sparselevel2/sycrsmv.tcc"
+#include "../sparselevel2/trccssv.tcc"
+#include "../sparselevel2/trcrssv.tcc"
 
 #endif // CXXBLAS_SPARSELEVEL2_SPARSELEVEL2_TCC

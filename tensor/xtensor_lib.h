@@ -16,16 +16,16 @@
 #include <sstream>
 using namespace std;
 
-#include "../tensor/xtensor/xio.hpp"
-#include "../tensor/xtensor/xview.hpp"
-#include "../tensor/xtensor/xslice.hpp"
-#include "../tensor/xtensor/xbuilder.hpp"
-#include "../tensor/xtensor-blas/xlinalg.hpp"
-#include "../tensor/xtensor/xrandom.hpp"
-#include "../tensor/xtensor/xindex_view.hpp"
-#include "../tensor/xtensor/xsort.hpp"
-#include "../tensor/xtensor/xarray.hpp"
-#include "../tensor/xtensor/xnpy.hpp"
+#include "xtensor/xio.hpp"
+#include "xtensor/xview.hpp"
+#include "xtensor/xslice.hpp"
+#include "xtensor/xbuilder.hpp"
+#include "xtensor-blas/xlinalg.hpp"
+#include "xtensor/xrandom.hpp"
+#include "xtensor/xindex_view.hpp"
+#include "xtensor/xsort.hpp"
+#include "xtensor/xarray.hpp"
+#include "xtensor/xnpy.hpp"
 #include <ctime>
 
 typedef unsigned long ulong;

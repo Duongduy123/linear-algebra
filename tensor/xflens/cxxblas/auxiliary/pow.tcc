@@ -34,8 +34,8 @@
 #define CXXBLAS_AUXILIARY_POW_TCC 1
 
 #include <cmath>
-#include "xflens/cxxblas/auxiliary/complextrait.h"
-#include "xflens/cxxblas/auxiliary/pow.h"
+#include "../auxiliary/complextrait.h"
+#include "../auxiliary/pow.h"
 #ifdef WITH_MPFR
 #include <external/real.hpp>
 #endif

@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL1_SWAP_TCC
 #define CXXBLAS_LEVEL1_SWAP_TCC 1
 
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

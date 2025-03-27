@@ -33,20 +33,20 @@
 #ifndef CXXBLAS_CXXBLAS_TCC
 #define CXXBLAS_CXXBLAS_TCC 1
 
-#include "xflens/cxxblas/auxiliary/auxiliary.tcc"
-#include "xflens/cxxblas/drivers/drivers.tcc"
+#include "auxiliary/auxiliary.tcc"
+#include "drivers/drivers.tcc"
 
-#include "xflens/cxxblas/level1/level1.tcc"
-#include "xflens/cxxblas/level1extensions/level1extensions.tcc"
-#include "xflens/cxxblas/level2/level2.tcc"
-#include "xflens/cxxblas/level2extensions/level2extensions.tcc"
-#include "xflens/cxxblas/level3/level3.tcc"
-#include "xflens/cxxblas/level3extensions/level3extensions.tcc"
+#include "level1/level1.tcc"
+#include "level1extensions/level1extensions.tcc"
+#include "level2/level2.tcc"
+#include "level2extensions/level2extensions.tcc"
+#include "level3/level3.tcc"
+#include "level3extensions/level3extensions.tcc"
 
-#include "xflens/cxxblas/sparselevel2/sparselevel2.tcc"
-#include "xflens/cxxblas/sparselevel3/sparselevel3.tcc"
+#include "sparselevel2/sparselevel2.tcc"
+#include "sparselevel3/sparselevel3.tcc"
 
-#include "xflens/cxxblas/tinylevel1/tinylevel1.tcc"
-#include "xflens/cxxblas/tinylevel2/tinylevel2.tcc"
+#include "tinylevel1/tinylevel1.tcc"
+#include "tinylevel2/tinylevel2.tcc"
 
 #endif // CXXBLAS_CXXBLAS_TCC

@@ -34,7 +34,7 @@
 #define CXXBLAS_LEVEL1_ROTM_TCC 1
 
 #include <cmath>
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 

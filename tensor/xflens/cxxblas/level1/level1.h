@@ -33,15 +33,15 @@
 #ifndef CXXBLAS_LEVEL1_LEVEL1_H
 #define CXXBLAS_LEVEL1_LEVEL1_H 1
 
-#include "xflens/cxxblas/level1/asum.h"
-#include "xflens/cxxblas/level1/axpy.h"
-#include "xflens/cxxblas/level1/copy.h"
-#include "xflens/cxxblas/level1/dot.h"
-#include "xflens/cxxblas/level1/iamax.h"
-#include "xflens/cxxblas/level1/nrm2.h"
-#include "xflens/cxxblas/level1/rot.h"
-#include "xflens/cxxblas/level1/rotm.h"
-#include "xflens/cxxblas/level1/scal.h"
-#include "xflens/cxxblas/level1/swap.h"
+#include "../level1/asum.h"
+#include "../level1/axpy.h"
+#include "../level1/copy.h"
+#include "../level1/dot.h"
+#include "../level1/iamax.h"
+#include "../level1/nrm2.h"
+#include "../level1/rot.h"
+#include "../level1/rotm.h"
+#include "../level1/scal.h"
+#include "../level1/swap.h"
 
 #endif // CXXBLAS_LEVEL1_LEVEL1_H

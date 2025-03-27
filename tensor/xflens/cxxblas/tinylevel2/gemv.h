@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_TINYLEVEL2_GEMV_H
 #define CXXBLAS_TINYLEVEL2_GEMV_H 1
 
-#include "xflens/cxxblas/typedefs.h"
+#include "../typedefs.h"
 
 namespace cxxblas {
 

@@ -34,7 +34,7 @@
 #define CXXLAPACK_INTERFACE_LADIV_H 1
 
 #include <complex>
-#include "xflens/cxxblas/drivers/drivers.h"
+#include "../../cxxblas/drivers/drivers.h"
 
 namespace cxxlapack {
 

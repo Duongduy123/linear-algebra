@@ -33,7 +33,7 @@
 #ifndef CXXBLAS_LEVEL3_SYMM_TCC
 #define CXXBLAS_LEVEL3_SYMM_TCC 1
 
-#include "xflens/cxxblas/cxxblas.h"
+#include "../cxxblas.h"
 
 namespace cxxblas {
 
